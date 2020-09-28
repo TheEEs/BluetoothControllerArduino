@@ -1,0 +1,13 @@
+{
+  "appId": "joystick.bluetooth.app",
+  "appName": "BlueTooth Double JoyStick",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}

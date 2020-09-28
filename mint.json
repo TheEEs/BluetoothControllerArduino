@@ -1,0 +1,22 @@
+{
+  "name": "joystick_bluetooth",
+  "application": {
+    "head": "assets/head.html",
+    "title": "joystick_bluetooth"
+  },
+  "source-directories": [
+    "source"
+  ],
+  "test-directories": [
+    "tests"
+  ],
+  "external":{
+    "stylesheets":[
+      "assets/stylesheets/normalize.min.css",
+      "assets/stylesheets/bulma.min.css"
+    ],
+    "javascripts":[
+      "assets/javascripts/nipplejs.js"
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Cần điều khiển đôi Arduino</string>
+    <string name="title_activity_main">joystick_bluetooth</string>
+    <string name="package_name">joystick.bluetooth.app</string>
+    <string name="custom_url_scheme">joystick.bluetooth.app</string>
+</resources>
